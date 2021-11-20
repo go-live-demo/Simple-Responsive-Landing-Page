@@ -84,10 +84,7 @@ section {
 .full-width {
   width: 100%;
 }
-.split > img {
-  width: 100%;
-  margin:0; 
-}
+
 @media (max-width: 40em) {
   .split > * + * {
     margin-top: 1em;
